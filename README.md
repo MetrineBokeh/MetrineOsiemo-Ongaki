@@ -1,5 +1,4 @@
-# MetrineOsiemo-Ongaki
-Hi. I'm Metrine a Corporate Data analyst, Business Analyst | Data Scientist | AI, ML &amp; Digital Systems Developer
+# MetrineOsiemo-Ongaki Hi. I'm Metrine a Corporate Data analyst, Business Analyst | Data Scientist | AI, ML &amp; Digital Systems Developer
 
 
 I love transforming messy data into actionable insights that drive real impact.  
